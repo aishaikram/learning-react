@@ -1,3 +1,14 @@
+This project is created by Aisha Ikram. It can be used to beginners to learn React. React is a javascript library. The project also uses Hooks which are new to react. 
+
+Pre-Requisite Environment/Software:
+
+GitHub 
+Node.js
+Yarn
+React Developer Tools
+Visul Studio Code or any suitable Editor
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
