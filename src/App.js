@@ -28,7 +28,7 @@ function App() {
 <Switch>
   <Route exact path="/"> <Home/> </Route>
   <Route path="/about"><About/></Route>
-  <Route path="/queue"><Queue/></Route>
+  <Route path="/queues/:queueName"><Queue/></Route>
 </Switch>
 
 </div>
